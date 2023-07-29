@@ -21,7 +21,7 @@ User Authentication: To enhance the shopping experience, the app incorporates a 
 
 # Getting Started:
 
-Clone the repository: git clone https://github.com/your_username/mini_online_shoes_app.git
+Clone the repository: git clone [https://github.com/your_username/mini_online_shoes_app.git](https://github.com/abhijg/Mini-Online-Shoes-App-UI-on-Flutter)
 Navigate to the project directory: cd mini_online_shoes_app
 Install dependencies: flutter pub get
 Run the app: flutter run
